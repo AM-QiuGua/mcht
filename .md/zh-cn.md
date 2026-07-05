@@ -31,7 +31,6 @@
 MCHT/
 ├── Minecraft_Help_Tools.py   # 主程序入口、Qt界面逻辑
 ├── data.json                 # 全量数据库（指令/物品/方块/效果/附魔）
-└── README.md                 # 项目说明文档
 ```
 > 运行要求：`Minecraft_Help_Tools.py` 与 `data.json` 必须放在同一文件夹，否则程序会提示文件缺失并退出。
 
