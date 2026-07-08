@@ -12,6 +12,7 @@
 
 ## 版本与校验
 当前正式版：v1.0.0
+当前测试版：v1.1.0 beta1
 发行压缩包：MCHT_v1.0.0.zip
 ### SHA256校验值：aef2f6de7550dd35f3e0a340f92d3263d99e2e867ba2bc20e659bf2ed9cb7e6d
 版本历史请见：[历史版本仓库](./docs/history_zh-cn.md)
