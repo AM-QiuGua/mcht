@@ -1,6 +1,6 @@
 # MCHT - Minecraft Help Tools
 一款轻量化Minecraft服务端辅助管理工具，基于Python开发，无冗余依赖，支持Windows 10/11使用PySide6（Qt工具包）作为GUI界面
-# （PS：国内镜像站GitCode链接：https://gitcode.com/AM-QiuGua/mcht）
+## （PS：国内镜像站GitCode链接：https://gitcode.com/AM-QiuGua/mcht）
 ## 功能一览
 1. 内置通用服务器管理命令模板
 2. 绿色免安装，解压即可运行
